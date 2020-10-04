@@ -1,4 +1,4 @@
-# Super Simple Highlighter
+# Copyright
 
 ##What is it?
 A Chrome extension for highlighting text, and automatically attempt to restore highlight on each page revisit.

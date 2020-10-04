@@ -37,4 +37,4 @@ The aim of textport is to allow users to highlight article information in differ
 ## Next Steps
 In the coming week, we will be finishing the functionality of textport so users can export their sourcing and information to a Google Doc. Creating an extension that quickly allowed us to gather research information for a report/paper with the source URL was one of the primary goals for this project, and we believe this is a good start. Beyond that, we genuinely believe this could take care of collecting sources and direct quotes, allowing people more time to do their work.
 
-![Untitled design](https://user-images.githubusercontent.com/62191831/95023605-fbb21d00-064b-11eb-934c-6967ce07304b.gif)
+![Untitled design (1)](https://user-images.githubusercontent.com/62191831/95023662-50ee2e80-064c-11eb-8faf-4fe6fbc8d426.gif)

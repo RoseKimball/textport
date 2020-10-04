@@ -5,8 +5,7 @@
 textport is a chrome extension built at IvyHacks 2020 that tackles the Remote Work/Education challenge.
 
 Demo link: 
-
-![textport  (1)](https://user-images.githubusercontent.com/62191831/95022166-82aec780-0643-11eb-93b4-ee626aa72f62.gif)
+![textport  (2)](https://user-images.githubusercontent.com/62191831/95023122-3797b300-0649-11eb-88aa-70857bbd5f92.gif)
 
 ## About
 The aim of textport is to allow users to highlight article information in different colors and export it, along with the source URL, to a Google Document. It is intuitive and simple to use, and anyone can download it from the Google Chrome Web Store.

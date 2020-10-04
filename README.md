@@ -18,7 +18,9 @@ The aim of textport is to allow users to highlight article information in differ
 * copy/export it with the source link
 
 ## Screenshots
-
+![1](https://user-images.githubusercontent.com/62191831/95022986-7842fc80-0648-11eb-9e53-cbb796491ea2.png)
+![2](https://user-images.githubusercontent.com/62191831/95022989-79742980-0648-11eb-80c9-53ceb4b2f010.png)
+![3](https://user-images.githubusercontent.com/62191831/95022990-7aa55680-0648-11eb-81f7-1601e2561c00.png)
 
 ## Technology
 * HTML

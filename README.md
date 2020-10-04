@@ -1,2 +1,6 @@
 # textport
-Submission for IvyHacks that allows you to highlight multiple pieces of text on a webpage, and allows you to export them.
+Submission for IvyHacks - textport allows you to highlight text on a webpage, view it by clicking on the extension, and copy/export it with the source link.
+
+![](name-of-giphy.gif) 
+
+Demo link: 

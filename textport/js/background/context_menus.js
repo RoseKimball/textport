@@ -140,6 +140,14 @@ var _contextMenus = {
                     contexts: ["all"]
                 });
 
+                // copy all
+                chrome.contextMenus.create({
+                    id: "copy_all_highlight_text",
+                    parentId: parentId,
+                    title: chrome.i18n.getMessage("copy_all_highlight_text"),
+                    contexts: ["all"]
+                });
+
                 // say
                 chrome.contextMenus.create({
                     id: "speak_highlight_text",
@@ -239,6 +247,12 @@ var _contextMenus = {
         case "copy_highlight_text":
             if (_contextMenus.hoveredHighlightId) {
                 _eventPage.copyHighlightText(_contextMenus.hoveredHighlightId);
+            }
+            break;
+        
+        case "copy_all_highlight_text":
+            if (_contextMenus.hoveredHighlightId) {
+                _eventPage.copyAllHighlightText(_contextMenus.hoveredHighlightId);
             }
             break;
 

@@ -39,4 +39,4 @@ In the coming week, we will be finishing the functionality of textport so users 
 
 ![Untitled design (1)](https://user-images.githubusercontent.com/62191831/95023662-50ee2e80-064c-11eb-8faf-4fe6fbc8d426.gif)
 
-*Huge Shoutout to the IvyHacks team, including Amanda Liu, Bhakti Patel, Inika Chikarmane, and Rose Kimball.
+*Huge Shoutout to the IvyHacks team, including Amanda Liu, Bhakti Patel, Inika Chikarmane, and Rose Kimball.*

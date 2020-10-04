@@ -545,6 +545,32 @@ var _eventPage = {
     },
 
     /**
+     * Copy all the highlighted text to the clipboard
+     * @param {string} documentId
+     */
+    copyAllHighlightText: function (documentId) {
+        "use strict";
+        _database.getDocument(documentId, function (err, doc) {
+            if (doc && doc.text) {
+                // https://coderwall.com/p/5rv4kq
+                var div = document.createElement('div');
+                div.contentEditable = true;
+
+                document.body.appendChild(div);
+
+                div.innerHTML = doc.text;
+                div.unselectable = "off";
+                div.focus();
+
+                document.execCommand('SelectAll');
+                document.execCommand("Copy", false, null);
+
+                document.body.removeChild(div);
+            }
+        });
+    },
+
+    /**
      * Speak text
      * @param {string} documentId
      * @param {object} [options] if not supplied, use the storage value

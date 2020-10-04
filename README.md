@@ -4,7 +4,8 @@
 
 textport is a chrome extension built at IvyHacks 2020 that tackles the Remote Work/Education challenge.
 
-## Demo link: https://www.youtube.com/watch?v=-phjGBnt8BQ&feature=youtu.be&fbclid=IwAR3YnG1xXDkfl5v1tsnHLb-H1eJrLi3nx3buIEX87XBU3H__psq_xkVqrf0&ab_channel=InikaChikarmane
+## Demo link: 
+https://www.youtube.com/watch?v=-phjGBnt8BQ&feature=youtu.be&fbclid=IwAR3YnG1xXDkfl5v1tsnHLb-H1eJrLi3nx3buIEX87XBU3H__psq_xkVqrf0&ab_channel=InikaChikarmane
 
 ![textport  (2)](https://user-images.githubusercontent.com/62191831/95023122-3797b300-0649-11eb-88aa-70857bbd5f92.gif)
 

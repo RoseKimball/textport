@@ -131,6 +131,15 @@ popupControllers.controller('DocumentsController', ["$scope", function ($scope) 
     };
 
     /**
+     * Clicked 'copy all' button for a highlight
+     * @param documentId
+     */
+    $scope.onClickCopyAll = function (documentId) {
+        backgroundPage._eventPage.copyHighlightText(documentId);
+        window.close();
+    };
+
+    /**
      * Clicked 'speak' button for a highlight
      * @param documentId
      */

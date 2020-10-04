@@ -2,20 +2,20 @@
   "manifest_version": 2,
 
   "name": "textport.",
-  "version": "3.1.1",
+  "version": "1.0",
 
   "default_locale": "en",
   "description": "textport.",
   "icons": {
-    "16": "static/images/textport.png",
-    "19": "static/images/textport.png",
-    "32": "static/images/textport.png",
-    "38": "static/images/textport.png",
-    "48": "static/images/textport.png",
-    "64": "static/images/textport.png",
-    "96": "static/images/textport.png",
-    "128": "static/images/textport.png",
-    "256": "static/images/textport.png"
+    "16": "static/images/textport-logos.png",
+    "19": "static/images/textport-logos.png",
+    "32": "static/images/textport-logos.png",
+    "38": "static/images/textport-logos.png",
+    "48": "static/images/textport-logos.png",
+    "64": "static/images/textport-logos.png",
+    "96": "static/images/textport-logos.png",
+    "128": "static/images/textport-logos.png",
+    "256": "static/images/textport-logos.png"
   },
 
   "page_action": {

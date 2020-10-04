@@ -1,7 +1,6 @@
 # textport
 Submission for IvyHacks - textport allows you to highlight text on a webpage, view it by clicking on the extension, and copy/export it with the source link.
 
-![textport](https://user-images.githubusercontent.com/62191831/95021639-2b5b2800-0640-11eb-879a-f972f40e58b4.gif)
-
+![Copy of textport](https://user-images.githubusercontent.com/62191831/95021757-f4394680-0640-11eb-9deb-ef3a07fd666d.gif)
 
 Demo link: 
